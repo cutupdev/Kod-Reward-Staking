@@ -83,7 +83,6 @@ According to the rank of NFTs, there reward amount will be changed automatically
     "Gametime": 1.07,
     "Bloodied": 1.07,
     "Accursed": 1.05,
-
     "Neutral": 1
   },
   "Occupation": {
