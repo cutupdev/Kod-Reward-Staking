@@ -1,5 +1,5 @@
 # Solana NFT Staking Smart Contract
-Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
+Solana nft staking smart contract for Kingdom of Dwarves NFT collections
 
 ## Install Dependencies
 - Install `node` and `yarn`
