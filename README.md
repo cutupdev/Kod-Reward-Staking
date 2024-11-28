@@ -1,4 +1,4 @@
-# KoD-NFT-Staking
+# Solana NFT Staking Smart Contract
 Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 
 ## Install Dependencies
