@@ -1,5 +1,6 @@
 # Solana NFT Staking Smart Contract
 Solana nft staking smart contract for Kingdom of Dwarves NFT collections
+#### If you have any question about it, feel free to reach out of me[Whatsapp: https://wa.me/13137423660, Telegram: https://t.me/DevCutup].
 
 ## Install Dependencies
 - Install `node` and `yarn`
